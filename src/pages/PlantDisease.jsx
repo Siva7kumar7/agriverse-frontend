@@ -2,7 +2,7 @@ import React, { useRef, useState, useEffect } from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import API_BASE_URL from "../apiConfig";
-import "./plantdisease.css";
+import "./PlantDisease.css";
 
 /* ─────────────────────────────────────────
    FERTILIZER KNOWLEDGE BASE
